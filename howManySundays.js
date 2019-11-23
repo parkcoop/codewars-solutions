@@ -94,6 +94,6 @@ function howManySundays(startYear = 1901, endYear = 2000) {
         }
     })
 
-    return totalTime
+    return numberOfSundays
 
 }
